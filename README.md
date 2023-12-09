@@ -18,7 +18,7 @@ width="200" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835
    
 2. **Working with React** ⚛️
 
-3. **Implementing MongoDB, Mongoose, Express, Node.js Stack in Full Stack Development** 🌐💻
+3. **Implementing MongoDB, Mongoose, Express, <br/> Node.js Stack in Full Stack Development** 🌐💻
 
 4. **Building Full-Stack Sites** 🌐🚀
 
