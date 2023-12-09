@@ -47,7 +47,13 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="tailwind" width="50" height="50"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="tailwind" width="50" height="50"/> </a> 
-<p align="center"><img align="center" src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="shohaib1996" /></p>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohaib1996&show_icons=true&theme=merko&locale=en&layout=compact" alt="shohaib1996" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohaib1996&show_icons=true&theme=merko&locale=en" alt="shohaib1996" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" /></p>
+
 
 
 
