@@ -83,6 +83,29 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 - Secure payment transaction with stripe
 - various admin and user functionality
 
+# HireHarbor (A job portal management system)
+<p align="center">
+    <img src="https://i.imgur.com/TnXYw9C.png" alt="shohaib1996" height="600" />
+</p>
+
+## Live Link
+[Live Link](https://monumental-medovik-3187d5.netlify.app/)
+
+## Technologies Used
+
+- Frontend: React, JS
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT, Firebase
+- UI Frameworks: Tailwind CSS, DaisyUI
+
+## Features
+
+- job search functionality by category
+- Pdf download system which job a user applied
+- Robust Authentication: JWT verification for security
+- Add and delete job functionality done by server
+- Animation by framer motion
 
 
 
