@@ -1,9 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)]
 
 <h1 align="center">Hi 👋, I'm Shohaib Hossain</h1>
-<h1 align="left">🧑, About Me</h1>
-<h3 align="center">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
+<h1 align="left">
+  🧑, About Me
+  <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
 </h3>
+</h1>
+
 <img align="right" 
 width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 
