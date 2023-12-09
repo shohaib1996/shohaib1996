@@ -6,11 +6,16 @@
 <img align="right" 
 width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 
-- 🌱 I’m currently learning **Next.js**
+<h3 align="left">💻 What I do:</h3>
+- 🌱 - Crafting responsive and user-friendly interfaces using **React**
 
-- 💬 Ask me about **react, JavaScript,**
+- 👩‍💻 - Building RESTful APIs with **Node.js** and **Express**
+  
+- 💾 - Integrating **MongoDB** for database management with **Mongoose**
 
-- 📫 How to reach me **khanshohaibhossain@gmail.com**
+- 🌐 - Creating seamless end-to-end web applications
+
+
 
  <h3 align="left">👀 Current overview:</h3>
 
