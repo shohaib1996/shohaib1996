@@ -55,4 +55,6 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" />
 </p>
+<h3 align="left" style="font-size: 30px; border-bottom: 1px solid #000;">⌨️ Recent Projects:</h3>
+
 
