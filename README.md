@@ -59,7 +59,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 # DormDineHub (A hostel meal management system)
 <p align="center">
-    <img src="https://i.imgur.com/TQMWyFI.png" alt="shohaib1996" />
+    <img src="https://i.imgur.com/ZYZKJ3H.png" alt="shohaib1996" height="600" width="500"/>
 </p>
 
 ## Live Link
@@ -106,6 +106,29 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 - Robust Authentication: JWT verification for security
 - Add and delete job functionality done by server
 - Animation by framer motion
+
+# AutoCare (A Car selling management system)
+<p align="center">
+    <img src="https://i.imgur.com/edSLjHX.png" alt="shohaib1996" height="600" />
+</p>
+
+## Live Link
+[Live Link](https://marvelous-lamington-0ee9ae.netlify.app/)
+
+## Technologies Used
+
+- Frontend: React, JS
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: Firebase
+- UI Frameworks: Tailwind CSS, DaisyUI
+
+## Features
+
+- Light/dark mode toggle
+- A robust and user-friendly authentication process that includes options for Google sign-ins to enhance data security
+- empowers users with detailed product information
+- Ensures data privacy by controlling access to specific routes
 
 
 
