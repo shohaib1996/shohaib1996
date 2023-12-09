@@ -43,6 +43,9 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 <p align="center">
 <a href="https://linkedin.com/in/shohaib-hossain-0792041ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohaib-hossain-0792041ba" height="30" width="40" /></a>
 <a href="https://fb.com/ananta.asim.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ananta.asim.5" height="30" width="40" /></a>
+  <a href="mailto:khanshohaibhossain@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="khanshohaibhossain@gmail.com" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
