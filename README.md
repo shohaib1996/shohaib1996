@@ -16,6 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohaib1996&show_icons=true&theme=merko&locale=en&layout=compact" alt="shohaib1996" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohaib1996&show_icons=true&theme=merko&locale=en" alt="shohaib1996" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" /></p>
