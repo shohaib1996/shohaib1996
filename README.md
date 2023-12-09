@@ -96,8 +96,8 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
     <img src="https://i.imgur.com/TnXYw9C.png" alt="shohaib1996" height="600" />
 </p>
 
-## Live Link
-[Live Link](https://monumental-medovik-3187d5.netlify.app/)
+## Links
+[Live Link](https://monumental-medovik-3187d5.netlify.app/) | [Client](https://github.com/shohaib1996/hire-harbor-client-assignment-11) | [Server](https://github.com/shohaib1996/hire-harbor-server-assignment-11)
 
 ## Technologies Used
 
