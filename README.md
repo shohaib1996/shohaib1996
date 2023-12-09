@@ -57,5 +57,33 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 </p>
 <h1 align="left" style="font-size: 36px; border-bottom: 2px solid #000;">⌨️ Recent Projects:</h1>
 
+# DormDineHub (A hostel meal management system)
+<p align="center">
+    <img src="https://i.imgur.com/TQMWyFI.png" alt="shohaib1996" />
+</p>
+
+## Live Link
+[Live Link](https://amazing-lamington-f5fdd2.netlify.app/)
+
+## Technologies Used
+
+- Frontend: React, JS
+- Backend: Node.js, Express
+- Database: MongoDB (Mongoose)
+- Authentication: JWT, Firebase
+- UI Frameworks: Tailwind CSS, DaisyUI
+- Tools: Tanstack
+- Payment: Stripe
+
+## Features
+
+- Two different role and different dashboard
+- Search functionality from backend
+- Robust Authentication: JWT verification for security
+- Secure payment transaction with stripe
+- various admin and user functionality
+
+
+
 
 
