@@ -120,8 +120,8 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
     <img src="https://i.imgur.com/edSLjHX.png" alt="shohaib1996" height="600" />
 </p>
 
-## Live Link
-[Live Link](https://marvelous-lamington-0ee9ae.netlify.app/)
+## Links
+[Live Link](https://marvelous-lamington-0ee9ae.netlify.app/) | [Client](https://github.com/shohaib1996/automobile-project-client-assignment-10) | [Server](https://github.com/shohaib1996/automobile-project-servre-assignment-10)
 
 ## Technologies Used
 
