@@ -59,7 +59,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 # DormDineHub (A hostel meal management system)
 <p align="center">
-    <img src="https://i.imgur.com/ZYZKJ3H.png" alt="shohaib1996" height="600" width="500"/>
+    <img src="https://i.imgur.com/ZYZKJ3H.png" alt="shohaib1996" height="600" "/>
 </p>
 
 ## Live Link
