@@ -70,8 +70,8 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
     <img src="https://i.imgur.com/ZYZKJ3H.png" alt="shohaib1996" height="600" "/>
 </p>
 
-## Live Link
-[Live Link](https://amazing-lamington-f5fdd2.netlify.app/)
+## Links
+[Live Link](https://amazing-lamington-f5fdd2.netlify.app/) | [Client](https://github.com/shohaib1996/Dorm-dine-hub-Client) | [Server](https://github.com/shohaib1996/Dorm-dine-hub-server)
 
 ## Technologies Used
 
