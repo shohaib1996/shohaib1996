@@ -12,6 +12,19 @@ width="200" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835
 
 - 📫 How to reach me **khanshohaibhossain@gmail.com**
 
+👀 <h3 align="left">Current overview:</h3>
+
+1. **Exploring Next.js** 🚀
+   
+2. **Working with React** ⚛️
+
+3. **Implementing MongoDB, Mongoose, Express, Node.js Stack in Full Stack Development** 🌐💻
+
+4. **Building Full-Stack Sites** 🌐🚀
+
+5. **Continuous Learning** 📚
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shohaib-hossain-0792041ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohaib-hossain-0792041ba" height="30" width="40" /></a>
