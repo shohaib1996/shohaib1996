@@ -12,7 +12,7 @@ width="200" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835
 
 - 📫 How to reach me **khanshohaibhossain@gmail.com**
 
-👀 <h3 align="left">Current overview:</h3>
+ <h3 align="left">👀 Current overview:</h3>
 
 1. **Exploring Next.js** 🚀
    
