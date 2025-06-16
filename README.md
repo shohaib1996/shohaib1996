@@ -11,7 +11,7 @@
 </h1>
 
 <img align="right" 
-width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+width="400" height="350" src="https://i.gifer.com/6M8G.gif">
 
 <h3 align="left">💻 What I do:</h3>
 
