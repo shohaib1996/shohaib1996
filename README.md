@@ -63,6 +63,8 @@ width="400" height="350" src="https://i.gifer.com/6M8G.gif">
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" />
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shohaib1996)](https://git.io/streak-stats)
 <h1 align="left" style="font-size: 36px; border-bottom: 2px solid #000;">⌨️ Recent Projects:</h1>
 
 # DormDineHub (A hostel meal management system)
