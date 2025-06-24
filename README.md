@@ -1,70 +1,67 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0" alt="MasterHead">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0" alt="MasterHead" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Shohaib Hossain</h1>
-<h1 align="left">
-  🧑, About Me
-  <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
-</h3>
-</h1>
 
-<img align="right" 
-width="400" height="350" src="https://i.gifer.com/6M8G.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+Web+Enthusiast;Next.js+Lover;Always+Learning+%26+Growing;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
+</p>
 
-<h3 align="left">💻 What I do:</h3>
+<h2 align="left">🧑‍💻 About Me</h2>
+<p>Hey! 👋 I'm a MERN stack developer with a focus on React for front-end and exploring Next.js. Comfortable with Node.js, Express, and MongoDB on the back-end. On a mission to craft seamless, user-centric web experiences. Let's connect and build something amazing together! 🚀</p>
 
-- 🌱 - Crafting responsive and user-friendly interfaces using **React**
+<img align="right" width="350" height="320" src="https://i.gifer.com/6M8G.gif" alt="Coding gif" />
 
-- 👩‍💻 - Building RESTful APIs with **Node.js** and **Express**
-  
-- 💾 - Integrating **MongoDB** for database management with **Mongoose**
+<h3 align="left">💻 What I Do:</h3>
 
-- 🌐 - Creating seamless end-to-end web applications
+- 🌱 Crafting responsive and user-friendly interfaces with **React** & **Next.js**
+- ⚙️ Building RESTful APIs with **Node.js** & **Express**
+- 💾 Managing databases with **MongoDB** & **Postgres** using **Prisma**
+- 🎨 UI frameworks like **Material UI**, **shadcn UI**, and **Ant Design**
+- 🎯 Delivering full-stack apps with passion and a focus on user experience!
 
+<h3 align="left">👀 Currently Exploring:</h3>
 
-
- <h3 align="left">👀 Current overview:</h3>
-
-1. **Exploring Next.js** 🚀
-   
-2. **Working with React** ⚛️
-
-3. **Implementing MongoDB, Mongoose, Express, Node.js Stack**  
-   **in Full Stack Development** 🌐💻
-
-4. **Building Full-Stack Sites** 🌐🚀
-
-5. **Continuous Learning** 📚
-
+1. 🚀 Deep-diving into **Next.js** and advanced SSR/SSG techniques
+2. ⚡ Exploring **Postgres** and **Prisma** for scalable data management
+3. 💡 Staying updated with the latest **Material UI**, **Ant Design**, and **shadcn** components
+4. 🎮 Creating full-stack apps with performance and accessibility in mind
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shohaib-hossain-0792041ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohaib-hossain-0792041ba" height="30" width="40" /></a>
-<a href="https://fb.com/ananta.asim.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ananta.asim.5" height="30" width="40" /></a>
-<a href="mailto:khanshohaibhossain@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="khanshohaibhossain@gmail.com" height="30" width="40" />
-</a>
-
-  
+  <a href="https://www.linkedin.com/in/shohaib-hossain-0792041ba/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://fb.com/ananta.asim.5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook" /></a>
+  <a href="mailto:khanshohaibhossain@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width="40" height="40" alt="Email" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="tailwind" width="50" height="50"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="tailwind" width="50" height="50"/> </a> 
-</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohaib1996&show_icons=true&theme=merko&locale=en&layout=compact" alt="shohaib1996" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohaib1996&show_icons=true&theme=merko&locale=en" alt="shohaib1996" /></p>
-
+<h3 align="center">🧰 Languages and Tools:</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" />
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" /></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI" /></a>
+  <a href="https://ant.design/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="40" height="40" alt="Ant Design" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139734306?s=200&v=4" width="40" height="40" alt="shadcn UI" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="Postgres" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" /></a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shohaib1996" alt="GitHub Streak" /></a>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shohaib1996&show_icons=true&theme=merko&locale=en&layout=compact" alt="shohaib1996" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohaib1996&show_icons=true&theme=merko&locale=en" alt="shohaib1996" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" />
+</p>
+
+
 <h1 align="left" style="font-size: 36px; border-bottom: 2px solid #000;">⌨️ Recent Projects:</h1>
 
 # DormDineHub (A hostel meal management system)
