@@ -57,9 +57,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shohaib1996&show_icons=true&theme=merko&locale=en" alt="shohaib1996" />
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" />
-</p> -->
+</p>
 
 
 <h1 align="left" style="font-size: 36px; border-bottom: 2px solid #000;">⌨️ Recent Projects:</h1>
