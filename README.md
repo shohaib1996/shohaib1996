@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996&theme=highcontrast" alt="shohaib1996" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohaib1996" alt="shohaib1996" />
 </p>
 
 
