@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=shohaib1996&show_icons=true&theme=dark&locale=en&hide=contribs,prs" alt="shohaib1996" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shohaib1996&show_icons=true&theme=merko&locale=en" alt="shohaib1996" />
 </p>
 
 <p align="center">
